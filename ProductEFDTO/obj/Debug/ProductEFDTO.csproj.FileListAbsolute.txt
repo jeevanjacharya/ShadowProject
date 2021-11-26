@@ -1,0 +1,6 @@
+F:\Project\Product\ProductEFDTO\bin\Debug\ProductEFDTO.dll
+F:\Project\Product\ProductEFDTO\bin\Debug\ProductEFDTO.pdb
+F:\Project\Product\ProductEFDTO\obj\Debug\ProductEFDTO.csproj.AssemblyReference.cache
+F:\Project\Product\ProductEFDTO\obj\Debug\ProductEFDTO.csproj.CoreCompileInputs.cache
+F:\Project\Product\ProductEFDTO\obj\Debug\ProductEFDTO.dll
+F:\Project\Product\ProductEFDTO\obj\Debug\ProductEFDTO.pdb

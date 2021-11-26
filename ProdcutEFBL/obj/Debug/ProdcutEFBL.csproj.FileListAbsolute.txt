@@ -1,0 +1,14 @@
+F:\Project\Product\ProdcutEFBL\bin\Debug\ProdcutEFBL.dll
+F:\Project\Product\ProdcutEFBL\bin\Debug\ProdcutEFBL.pdb
+F:\Project\Product\ProdcutEFBL\bin\Debug\ProductEFDAL.dll
+F:\Project\Product\ProdcutEFBL\bin\Debug\ProductEFDTO.dll
+F:\Project\Product\ProdcutEFBL\bin\Debug\EntityFramework.dll
+F:\Project\Product\ProdcutEFBL\bin\Debug\ProductEFDAL.pdb
+F:\Project\Product\ProdcutEFBL\bin\Debug\ProductEFDAL.dll.config
+F:\Project\Product\ProdcutEFBL\bin\Debug\ProductEFDTO.pdb
+F:\Project\Product\ProdcutEFBL\bin\Debug\EntityFramework.xml
+F:\Project\Product\ProdcutEFBL\obj\Debug\ProdcutEFBL.csproj.AssemblyReference.cache
+F:\Project\Product\ProdcutEFBL\obj\Debug\ProdcutEFBL.csproj.CoreCompileInputs.cache
+F:\Project\Product\ProdcutEFBL\obj\Debug\ProdcutEFBL.csproj.CopyComplete
+F:\Project\Product\ProdcutEFBL\obj\Debug\ProdcutEFBL.dll
+F:\Project\Product\ProdcutEFBL\obj\Debug\ProdcutEFBL.pdb

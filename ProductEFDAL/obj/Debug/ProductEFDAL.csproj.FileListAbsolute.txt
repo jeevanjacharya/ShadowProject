@@ -1,0 +1,14 @@
+F:\Project\Product\ProductEFDAL\bin\Debug\ProductEFDAL.dll.config
+F:\Project\Product\ProductEFDAL\bin\Debug\ProductEFDAL.dll
+F:\Project\Product\ProductEFDAL\bin\Debug\ProductEFDAL.pdb
+F:\Project\Product\ProductEFDAL\bin\Debug\EntityFramework.dll
+F:\Project\Product\ProductEFDAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Project\Product\ProductEFDAL\bin\Debug\ProductEFDTO.dll
+F:\Project\Product\ProductEFDAL\bin\Debug\ProductEFDTO.pdb
+F:\Project\Product\ProductEFDAL\bin\Debug\EntityFramework.xml
+F:\Project\Product\ProductEFDAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Project\Product\ProductEFDAL\obj\Debug\ProductEFDAL.csproj.AssemblyReference.cache
+F:\Project\Product\ProductEFDAL\obj\Debug\ProductEFDAL.csproj.CoreCompileInputs.cache
+F:\Project\Product\ProductEFDAL\obj\Debug\ProductEFDAL.csproj.CopyComplete
+F:\Project\Product\ProductEFDAL\obj\Debug\ProductEFDAL.dll
+F:\Project\Product\ProductEFDAL\obj\Debug\ProductEFDAL.pdb
